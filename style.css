@@ -124,7 +124,7 @@ section{
     display: flex;
     align-items: center;
     transform: scaleY(0);
-    transform-origin: top;
+    transform-origin: top  ;
 }
 
 .header .search-form.active{
